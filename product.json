@@ -8,6 +8,7 @@
 	"product_spl_price" : "200",
 	"sale_from_date" : "31/5/2019",
 	"sale_to_date" : "31/12/2019",
+	"days_of_sale" : "10",
 	"short_description" : "some love story",
 	"long_description" : "sadasdasd asdasdd asdasdsad asdasddsadas sdsadsadasd asdasdsadsad sadasdsadsad sadsadsa",
 	"product_author" : "Chetan Bhagat",
