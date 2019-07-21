@@ -1,0 +1,21 @@
+{
+	"product_title" : "Two States",
+	"product_type" : "ebook",
+	"product_language" : "English",
+	"product_category" : "Love Story",
+	"product_price" : "500",
+	"product_sell_price" : "360",
+	"product_spl_price" : "200",
+	"sale_from_date" : "31/5/2019",
+	"sale_to_date" : "31/12/2019",
+	"short_description" : "some love story",
+	"long_description" : "sadasdasd asdasdd asdasdsad asdasddsadas sdsadsadasd asdasdsadsad sadasdsadsad sadsadsa",
+	"product_author" : "Chetan Bhagat",
+	"release_date" : "25/04/2015",
+	"is_rentable" : "1",
+	"is_in_library" : "0",
+	"rent_amount" : "5",
+	"min_rent_days" : "5",
+	"product_publisher" : "Pengin India",
+	"image_src" : "http//bookworm.com/assets/img/book_1234.jpg"
+}
